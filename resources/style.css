@@ -37,6 +37,7 @@ footer {
 .footcontainer{
   width: 90%;
   margin: 20px auto;
+  max-width: 1400px;
 }
 
 .footer-links {
@@ -64,6 +65,7 @@ footer {
 .backheader{
   position: relative;
   left: 5%;
+  max-width: 1400px;
 }
 
 
